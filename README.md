@@ -1,7 +1,7 @@
 # Word Ladder
 
-![CI](https://github.com/your-username/word-ladder/actions/workflows/ci.yml/badge.svg)
-![CD](https://github.com/your-username/word-ladder/actions/workflows/cd.yml/badge.svg)
+![CI](https://github.com/aliezzahn/word-ladder/actions/workflows/ci.yml/badge.svg)
+![CD](https://github.com/aliezzahn/word-ladder/actions/workflows/cd.yml/badge.svg)
 
 A Rust implementation of the Word Ladder problem.
 
