@@ -1,0 +1,12 @@
+[package]
+name = "word-ladder"
+version = "0.1.0"
+edition = "2021"
+authors = ["aliezzahn <aliezzahn@gmail.com>"]
+description = "A Rust implementation of the Word Ladder problem."
+license = "MIT"
+repository = "https://github.com/aliezzahn/word-ladder"
+
+[dependencies]
+
+[dev-dependencies]
